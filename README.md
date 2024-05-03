@@ -14,7 +14,7 @@ The focus of this project, therefore, was the relationship between a chocolate b
 ## Data
 flavors_of_cacao: This data set contains ratings for chocolate bars as well as their cocoa content and information about the manufacturer and the used bean type for the time range 2006-2017.
 
-[Source](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings)
+[Data Source](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings)
 ## Tools
 This data was analyzed using Python with the following libraries:
 - pandas: for data analysis
